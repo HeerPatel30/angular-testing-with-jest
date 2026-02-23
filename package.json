@@ -60,6 +60,6 @@
     ]
   },
   "publishConfig": {
-    "registry": "http://localhost:8081/repository/shruti_angular/"
+    "registry": "http://192.168.0.42:8081/repository/shruti_angular/"
   }
 }
